@@ -1,0 +1,12 @@
+Vague Idea:
+1) to make a network able to generate Indian Classical music.
+2) main idea is considering Music as a story being every note and the alankar as a word.
+	and considering this story as a set of feature information in time series.
+	Hence following approach should work properly in Initial Projection:
+		(i) Use of some sort of RNN(Recurrent Neural Network)
+		(ii) Ideally should use a frequency generation approach
+		(iii) To make it as a tool a MIDI generation approach should also work
+		(iv) for performances, the frequency to MIDI conversion on top of bullet(ii) should be appropriate.
+3) WorkFlow:
+	(i)Train the  model
+	(ii) use it for verbal generation 
